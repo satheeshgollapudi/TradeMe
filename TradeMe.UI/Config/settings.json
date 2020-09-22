@@ -1,0 +1,6 @@
+{
+   // "AUT": "http://localhost:3000/",
+      "AUT": " https://www.tmsandbox.co.nz/",
+    "ExtendReportPath": "Reports\\ExtendReport\\",
+    "ScreenshotPath": "Reports\\Screenshots"
+}
