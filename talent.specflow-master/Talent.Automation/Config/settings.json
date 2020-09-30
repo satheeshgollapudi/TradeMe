@@ -1,0 +1,5 @@
+{
+    "AUT": "http://localhost:3000/",
+    "ExtendReportPath": "Reports\\ExtendReport\\",
+    "ScreenshotPath": "Reports\\Screenshots"
+}
